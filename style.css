@@ -1,0 +1,27 @@
+a {
+  color: red;
+  text-decoration: none;
+}
+
+li {
+  color: #1a1a1a;
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 45px;
+  text-align: center;
+}
+
+.saw {
+  color: gray;
+
+}
+
+.ToHome {
+  color: purple;
+}
+
+#Into {
+  color: #cc38ac;
+}
